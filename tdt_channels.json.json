@@ -1,0 +1,72 @@
+[
+  {
+    "id": "la1",
+    "name": "La 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_TVE-1.svg",
+    "official_url": "https://www.rtve.es/play/guia-tve/",
+    "live_url": "https://www.rtve.es/play/videos/directo/la-1/"
+  },
+  {
+    "id": "la2",
+    "name": "La 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_TVE-2.svg",
+    "official_url": "https://www.rtve.es/play/guia-tve/",
+    "live_url": "https://www.rtve.es/play/videos/directo/la-2/"
+  },
+  {
+    "id": "antena3",
+    "name": "Antena 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Antena_3_logo_2017.svg",
+    "official_url": "https://www.antena3.com/programacion/",
+    "live_url": "https://www.atresplayer.com/directos/antena3/"
+  },
+  {
+    "id": "cuatro",
+    "name": "Cuatro",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Cuatro_logo_2012.svg",
+    "official_url": "https://www.cuatro.com/programacion/",
+    "live_url": "https://www.mitele.es/directo/cuatro/"
+  },
+  {
+    "id": "telecinco",
+    "name": "Telecinco",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Logo_de_Telecinco.svg",
+    "official_url": "https://www.telecinco.es/programacion/",
+    "live_url": "https://www.mitele.es/directo/telecinco/"
+  },
+  {
+    "id": "lasexta",
+    "name": "La Sexta",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_de_laSexta.svg",
+    "official_url": "https://www.lasexta.com/programacion/",
+    "live_url": "https://www.atresplayer.com/directos/lasexta/"
+  },
+  {
+    "id": "tdp",
+    "name": "Teledeporte",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Logo_TVE_TDP.svg",
+    "official_url": "https://www.rtve.es/play/guia-tve/",
+    "live_url": "https://www.rtve.es/play/videos/directo/teledeporte/"
+  },
+  {
+    "id": "clan",
+    "name": "Clan",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo_TVE_Clan.svg",
+    "official_url": "https://www.rtve.es/play/guia-tve/",
+    "live_url": "https://www.rtve.es/play/videos/directo/clan/"
+  },
+  {
+    "id": "nova",
+    "name": "Nova",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Nova_Atresmedia.svg",
+    "official_url": "https://www.antena3.com/programacion/",
+    "live_url": "https://www.atresplayer.com/directos/nova/"
+  },
+  {
+    "id": "mega",
+    "name": "Mega",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Mega_logo.svg",
+    "official_url": "https://www.antena3.com/programacion/",
+    "live_url": "https://www.atresplayer.com/directos/mega/"
+  }
+]
