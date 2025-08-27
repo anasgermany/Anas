@@ -1,0 +1,31 @@
+[
+  {
+        "name": "Gafas de Sol Redondas",
+
+    "Image Url": "https://ae-pic-a1.aliexpress-media.com/kf/S6175613ceff04d2097262bc51f3cc8590.jpg",
+        "type": "glasses"
+
+  },
+  {
+    "name": "Sombrero de Paja",
+    "Image Url": "https://ae-pic-a1.aliexpress-media.com/kf/Sba1094519ed4466782831586eaed4394z.jpg",
+  "type": "hat"
+
+  },
+  {
+    "name": "Collar de Perlas",
+    "Image Url": "https://ae-pic-a1.aliexpress-media.com/kf/Sa834bbc1d9744b69b81b639ce99f982bK.jpg",
+       "type": "necklace"
+  },
+  {
+    "name": "Pulsera de Cuentas",
+    "Image Url": "https://ae-pic-a1.aliexpress-media.com/kf/Scf22c08726d440e88bc6fad3e852671dw.jpg",
+    "type": "bracelet"
+  },
+  {
+    "name": "Pendientes de Concha",
+    "Image Url": "https://ae-pic-a1.aliexpress-media.com/kf/Sa9635e5587054de5b686d2940fdf6186w.jpg",
+     "type": "earrings"
+  }
+
+]

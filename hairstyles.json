@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Bob Texturizado",
+    "Image Url": "https://ae-pic-a1.aliexpress-media.com/kf/S6175613ceff04d2097262bc51f3cc8590.jpg",
+    "category": "Corto",
+    "colors": ["#000000", "#A52A2A", "#FFD700", "#FFFFFF"]
+  
+  },
+  {
+    "name": "Ondas Sueltas",
+    "Image Url": "https://ae-pic-a1.aliexpress-media.com/kf/Sba1094519ed4466782831586eaed4394z.jpg",
+    "category": "Largo",
+    "colors": ["#000000", "#FF69B4", "#8B4513", "#FFFFFF"]
+  },
+  {
+    "name": "Flequillo Recto",
+    "Image Url": "https://ae-pic-a1.aliexpress-media.com/kf/Sa834bbc1d9744b69b81b639ce99f982bK.jpg",
+    "category": "Flequillo",
+    "colors": ["#000000", "#A52A2A", "#FFFFFF"]
+  },
+  {
+        "name": "Shaggy Bob",
+
+    "Image Url": "https://ae-pic-a1.aliexpress-media.com/kf/Scf22c08726d440e88bc6fad3e852671dw.jpg",
+     "category": "Corto",
+    "colors": ["#000000", "#FF6347", "#8B4513", "#FFFFFF"]
+  },
+  {
+    "name": "Trenza Bohemia",
+    "Image Url": "https://ae-pic-a1.aliexpress-media.com/kf/Sa9635e5587054de5b686d2940fdf6186w.jpg",
+    "category": "Trenza",
+    "colors": ["#000000", "#FFD700", "#8B4513", "#FFFFFF"]
+  }
+  ]
